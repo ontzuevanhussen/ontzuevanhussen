@@ -7,7 +7,7 @@ rekam medis elektronik, farmasi, kasir, laporan, sampai integrasi ke sistem kese
 
 - **SATUSEHAT (Kemenkes)** — integrasi FHIR R4: kunjungan, diagnosis, tanda vital, resep & penyerahan obat,
   laboratorium, resume medis, imunisasi, dan RME Nasional (SSRME).
-- **BPJS Kesehatan** — VClaim (SEP), Antrean Online / Mobile JKN, Apotek Online.
+- **BPJS Kesehatan** — Mobile JKN & Aplicares (Pengembangan), Apotek Online, i-Care, Antrean Farmasi Task 6 dan 7.
 - **Penunjang medis** — PACS (dcm4chee, OHIF), sistem informasi laboratorium, tanda tangan elektronik.
 - **Infrastruktur** — Docker, Gitea, Xen Orchestra, pfSense, MikroTik, Synology NAS, Sentry.
 - **Bahasa & kerangka** — PHP, MariaDB, Laravel, Flutter.
